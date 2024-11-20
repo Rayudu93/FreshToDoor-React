@@ -1,0 +1,154 @@
+.product-list{
+    margin: 100px 0 0 100px;
+}
+.edge-1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.veg-top-menu1{
+    margin: 0px 0px 0px 30px;
+}
+.veg-top-menu img {
+    width: 180px;
+}
+
+.organic-farm-text {
+    margin: 0;
+    color: gray;
+}
+
+.product-title {
+    margin: 10px 0;
+}
+
+.rating-list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    color: rgb(220, 196, 150);
+}
+
+.rating-list li {
+    display: inline-block;
+}
+
+.reviews-text {
+    margin: 0 0 0 20px;
+    color: gray;
+}
+
+
+.pricetag {
+    font-size: x-large;
+}
+
+.number-input-container {
+    display: flex;
+    align-items: center;
+}
+.quantity-btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: white;
+    border: none;
+    color: rgb(182, 176, 176);
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+.quantity-btn1{
+    width: 70px;
+    height: 40px;
+    padding: auto;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 0px 0px 5px gray;
+    border: none;
+}
+.reveal{
+    position: relative;
+    left: 20px;
+}
+.reveal1{
+    position: relative;
+    right: 25px;
+}
+.cart-link {
+    text-decoration: none;
+}
+
+.cart {
+    display: inline-flex;
+    align-items: center;
+}
+.button-mem{
+    border: none;
+    background-color: white;
+}
+.cart{
+    margin-left: 20px;
+    padding: 10px 50px;
+    border: 1px solid gray;
+    color: green;
+}
+.cart:hover{
+    background-color: green;
+    color: white;
+}
+input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+.remove-btn{
+    margin-left: 50px;
+}
+.cart-item{
+    margin: 50px 0 0 150px;
+}
+.cart-total{
+    margin: 0px 0 0 170px;
+    padding-bottom: 0px;
+    border-top: 1px solid gray;
+    border-bottom: 0cap;
+}
+.Summary{
+    padding-right: 350px;
+    border-bottom: 1px solid gray;
+}
+.Summary h1{
+    margin-left: 10px;
+}
+.terms{
+    padding: 10px 0 20px 30px;
+    border-bottom: 1px solid gray;
+}
+.terms p{
+    margin: 30px 0 0 0px;
+}
+.final{
+    font-size: x-large;
+    color: green;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
