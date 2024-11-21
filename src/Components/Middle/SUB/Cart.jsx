@@ -1,13 +1,13 @@
 import HeaderPart from '../../Header/Header';
-import Meat from './Meat';
+import CartComponent from './CartComponent';
 
-function MeatComponent() {
+function Cart() {
     return (
         <>
             <HeaderPart />
-            <Meat />
+            <CartComponent />
         </>
     );
 }
 
-export default MeatComponent;
+export default Cart;
